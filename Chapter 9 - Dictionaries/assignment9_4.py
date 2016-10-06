@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Write a program to read through the mbox-short.txt and figure out who has the
 # sent the greatest number of mail messages. The program looks for 'From '

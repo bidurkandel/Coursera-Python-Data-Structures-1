@@ -1,4 +1,4 @@
-#!/usr/bin/python
+#!/usr/bin/env python
 
 # Write a program to read through the mbox-short.txt and figure out the
 # distribution by hour of the day for each of the messages. You can pull the
@@ -25,4 +25,3 @@ counts.sort()
 
 for hour,count in counts:
     print hour, count
-    
